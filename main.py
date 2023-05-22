@@ -12,7 +12,7 @@ def main():
         quotes = load_quotes("quotes.txt")
         menu()
 
-        choice = input("Choose your an action (1-3): ")
+        choice = input("Choose your an action (1-4): ")
         
         if choice == "1":
             print_quote(random_quote(quotes))
