@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: VERIER David Group D
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
+- `contributor-1`: [quotes-verrier-d](url-1)
+- `contributor-2`: [quotes-raffet-d](url-2)
 - `contributor-3`: [quotes-toto-b](url-3)
