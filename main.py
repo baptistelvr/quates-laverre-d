@@ -5,7 +5,7 @@ def menu():
     print("1. Random quote")
     print("2. All quotes")
     print("3. Add quote")
-    print("4. display quotes")
+    print("4. Display quotes")
     print("5. Exit")
 
 def main():
